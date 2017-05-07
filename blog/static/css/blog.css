@@ -1,0 +1,17 @@
+h1 a {
+    color: blue;
+
+}
+.inhalt {color: red}
+body {
+background-image: url("Hintergrundbild.png");
+background-size: cover;
+
+}
+#text{background-color: white;
+  position: absolute;bottom: 30px;
+  right: 30px;
+  width: 40%;
+  padding: 20px; border-radius: 50%;
+  text-align: center;
+}
